@@ -1,6 +1,5 @@
 use crate::environment::environment::Environment;
 use crate::ir::ast::{Expression, Name, Type};
-use std::collections::{HashMap, HashSet};
 use std::sync::Arc;
 type ErrorMessage = String;
 
